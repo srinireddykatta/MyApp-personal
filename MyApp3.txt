@@ -1,0 +1,4 @@
+This is my first tile
+This line is first line and I keep adding next lines for learning GIT
+THis is second line added and saved with another file name MyApp2.txt
+This is third line added to learn GIT untracked and tracked meaning MyApp3.txt
