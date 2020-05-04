@@ -1,0 +1,13 @@
+This is my fourth file in GitHub directly
+This line is first line and I keep adding next lines for learning GIT
+THis is second line added and saved with another file name MyApp2.txt
+This is third line added to learn GIT untracked and tracked meaning MyApp3.txt
+This is fourth file in new Branch direclty adding in Github
+Adding this line to differentiate /MyApp in MAC 
+I am adding 4th line directly in GITHIB and save to see the commit diretly feature
+
+First line after getting File4.txt
+
+Second line after getting File4.txt after first line commit done locally
+
+third line after getting File4.txt after seond line commit locally
