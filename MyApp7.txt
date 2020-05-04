@@ -3,3 +3,5 @@ This is MyApp7th file to check direct push and see if MyApp6 comes automatically
 This is firstline in MyApp7 after pull from hub
 
 This is second line in MyApp on top of first line
+
+This is third line in MyApp on top of seond line
